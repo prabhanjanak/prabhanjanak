@@ -31,9 +31,6 @@ As an aviation and Locomotive fan, I am interested in technological advances in 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 
 
 </td><td valign="top" width="50%">
@@ -129,4 +126,4 @@ As an aviation and Locomotive fan, I am interested in technological advances in 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
